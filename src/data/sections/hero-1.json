@@ -1,16 +1,16 @@
 {
     "bg_image": "/img/photo/1.jpg",
-    "title": "Modern<br/><span class=\"mil-accent\">Architectural</span><br/>Design",
-    "subtitle": "The future",
+    "title": "Transforma tu hogar con estilo,<br/><span class=\"mil-accent\">Persianas</span><br/>para un toque de <span class=\"mil-accent\">elegancia sin igual</span>",
+    "subtitle": "Persianas",
     "button": {
         "link": "/projects",
-        "label": "View Projects"
+        "label": "Ver proyectos"
     },
     "numbers": [
         {
             "value": "346",
             "afterValue": "+",
-            "label": "Succeeded <br/>Projects"
+            "label": "Proyectos <br/>Exitosos"
         },
         {
             "value": "9",
@@ -18,9 +18,9 @@
             "label": "Working <br/>Hours"
         },
         {
-            "value": "10",
+            "value": "30",
             "afterValue": "+",
-            "label": "Years <br/>Experience"
+            "label": "Años de <br/>Experiencia"
         },
         {
             "value": "99",

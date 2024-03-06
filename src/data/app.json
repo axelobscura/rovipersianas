@@ -1,7 +1,7 @@
 {
     "settings": {
-        "siteName": "Ruizarch",
-        "siteDescription": "Architecture React Next.JS Template",
+        "siteName": "ROVIPERSIANAS",
+        "siteDescription": "¡Bienvenido a Persianas Querétaro! Encuentra la solución perfecta para tus necesidades de decoración y funcionalidad en persianas. Navega a través de nuestra amplia gama de estilos, colores y materiales para personalizar tu espacio a la perfección. Ofrecemos productos de alta calidad y servicio profesional para garantizar la satisfacción de nuestros clientes. ¡Embellece tus ventanas con estilo y funcionalidad con las persianas de mejor calidad en Querétaro! Visita nuestra página web hoy para descubrir más.",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mailchimp": {
             "url": "",
@@ -12,29 +12,21 @@
     "header": {
         "logo": {
             "image": "/img/logo/logo-light.png",
-            "alt": "Logo"
+            "alt": "Encuentra la solución perfecta para tus necesidades de decoración y funcionalidad en persianas"
         },
         "menu": [
             {
-                "label": "Home",
+                "label": "Inicio",
                 "link": "/",
                 "children": [
                     {
-                        "label": "Homepage 1",
+                        "label": "Catálogo",
                         "link": "/"
-                    },
-                    {
-                        "label": "Homepage 2",
-                        "link": "/home-2"
-                    },
-                    {
-                        "label": "Homepage 3",
-                        "link": "/home-3"
                     }
                 ]
             },
             {
-                "label": "Services",
+                "label": "Servicios",
                 "link": "/services",
                 "children": [
                     {
@@ -48,7 +40,7 @@
                 ]
             },
             {
-                "label": "Projects",
+                "label": "Proyectos",
                 "link": "/projects",
                 "children": [
                     {
@@ -62,7 +54,7 @@
                 ]
             },
             {
-                "label": "Blog",
+                "label": "Noticias",
                 "link": "/blog",
                 "children": [
                     {
@@ -76,35 +68,9 @@
                 ]
             },
             {
-                "label": "Contact Us",
+                "label": "Contacto",
                 "link": "/contact",
                 "children": 0
-            },
-            {
-                "label": "Other",
-                "link": "/team",
-                "children": [
-                    {
-                        "label": "About",
-                        "link": "/about"
-                    },
-                    {
-                        "label": "Team",
-                        "link": "/team"
-                    },
-                    {
-                        "label": "Team Member",
-                        "link": "/team/team-01"
-                    },
-                    {
-                        "label": "Coming Soon",
-                        "link": "/coming-soon"
-                    },
-                    {
-                        "label": "404",
-                        "link": "/404"
-                    }
-                ]
             }
         ]
     },
@@ -113,7 +79,7 @@
             "image": "/img/logo/logo-light.png",
             "alt": "Logo"
         },
-        "copy": "© 2023 Ruizarch. All rights reserved.",
+        "copy": "© 2010 - 2024 ROVI Persianas. Todos Los Derechos Reservados.",
         "menu": [
             {
                 "label": "About",

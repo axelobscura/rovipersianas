@@ -1325,7 +1325,7 @@ top panel
                     font-size: 12px;
                     font-weight: 600;
                     white-space: nowrap;
-                    padding: 0 10px;
+                    padding: 10px;
                     transition: $t-sm;
 
                     &:hover {
@@ -1335,7 +1335,7 @@ top panel
 
                 &.mil-active {
                     & > a {
-                        padding: 0 10px;
+                        padding: 10px;
                         color: $dark;
                         background-color: $accent;
                     }
