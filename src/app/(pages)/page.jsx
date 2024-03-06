@@ -33,7 +33,6 @@ async function Home1() {
   return (
     <>
       <HeroOneSection />
-      <PartnersSlider />
       <AboutSection />
       <IdeasSection />
       <ServicesSection />

@@ -4,14 +4,14 @@
         "alt": "img"
     },
     "number": {
-        "value": "17",
-        "label": "<span class=\"mil-marker\">Years</span> of <br/>successful <br/>work"
+        "value": "25",
+        "label": "<span class=\"mil-marker\">Años</span> de <br/>experiencia <br/>iluminando espacios"
     },
-    "title": "Great experience",
-    "subtitle": "About Studio",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida.",
+    "title": "Gran experiencia",
+    "subtitle": "Sobre ROVI Persianas",
+    "description": "¡Bienvenido a Persianas Querétaro! Encuentra la solución perfecta para tus necesidades de decoración y funcionalidad en persianas. Navega a través de nuestra amplia gama de estilos, colores y materiales para personalizar tu espacio a la perfección. Ofrecemos productos de alta calidad y servicio profesional para garantizar la satisfacción de nuestros clientes.<br/><br/>¡Embellece tus ventanas con estilo y funcionalidad con las persianas de mejor calidad en Querétaro!",
     "button": {
         "link": "https://www.youtube.com/watch?v=HR4giV4oUjI",
-        "label": "Watch video"
+        "label": "Ver video"
     }
 }

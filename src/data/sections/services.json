@@ -1,18 +1,18 @@
 {
-    "title": "What We Do",
-    "subtitle": "Services",
+    "title": "Lo Que Hacemos",
+    "subtitle": "Servicios",
     "items": [
         {
             "icon": "/img/icons/3.svg",
             "num": "01.",
-            "title": "Interior Decor",
+            "title": "Diseño de interiores",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
             "link": "/services/service-1"
         },
         {
             "icon": "/img/icons/5.svg",
             "num": "02.",
-            "title": "Interior Decor",
+            "title": "Acondicionamieto de espacios",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
             "link": "/services/service-2"
         },
